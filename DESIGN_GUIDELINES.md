@@ -4,4 +4,4 @@ Secondary/Section Backgrounds: Steel Blue (#1F4E79)
 Accent/links/hover: Vibrant Orange (#FF6A00)
 
 ## Font
-Arial/Helvetica/Sans-Serif
+Oswald/Arial/Helvetica/Sans-Serif
