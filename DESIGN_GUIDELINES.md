@@ -5,3 +5,6 @@ Accent/links/hover: Vibrant Orange (#FF6A00)
 
 ## Font
 Oswald/Arial/Helvetica/Sans-Serif
+
+## Layout
+Website will be divided into sections, top from bottom.
